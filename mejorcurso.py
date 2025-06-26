@@ -3,6 +3,7 @@ datos={
     "2A":{"promedio":0,"conteo":0},
     "3A":{"promedio":0,"conteo":0},
 }
+
 while True:
     print(datos)
     print("1. Agregar Estduiante: ")
