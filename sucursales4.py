@@ -3,6 +3,7 @@ ventas={}
 v=0
 import heapq
 while True:
+    print(datos)
     print("1. Agregar Producto")
     print("2. Ver Registro De Ventas")
     print("3. Comprar")
